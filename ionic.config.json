@@ -1,0 +1,7 @@
+{
+  "name": "SUITSLS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
