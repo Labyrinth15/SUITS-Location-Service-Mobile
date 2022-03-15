@@ -20,13 +20,15 @@ General Requirements
 [Homebrew](https://brew.sh/)
 
 Rubygems
-1. brew update
-2. brew install ruby
-
+```bash
+brew update
+brew install ruby
+```
 Cocoapods
-1. brew cleanup -d -v
-2. brew install cocoapods
-
+```bash
+brew cleanup -d -v
+brew install cocoapods
+```
 
 ### Preparing     
 1. Clone this project on the same drive that you installed Ionic and Capacitor. For most systems this will be your primary disk.
