@@ -60,3 +60,16 @@ Go to Settings > General > Device Management
 Click under developer app "Apple Development: <your email address>"  
 Approve / Verify the app  
 Close settings and start the app.   
+ 
+### Testing the app
+On computer, start the TSS and join a room
+  
+On iPhone, join the same network.
+  
+In SUITSLS, enter http://{ipadress}:{port} in the TSS URL field
+  
+  
+  
+Once the device has connected to the server, select your TSS User.
+You will then be able to see the User Information in the GeoLocation tab.
+  
