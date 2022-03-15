@@ -66,7 +66,7 @@ On computer, start the TSS and join a room
   
 On iPhone, join the same network.
   
-In SUITSLS, enter http://{ipadress}:{port} in the TSS URL field
+In SUITSLS, enter http://{ip address}:{port} in the TSS URL field
   
   
   
