@@ -16,7 +16,16 @@ General Requirements
 ----------------------------------------
 [NodeJS LTS](https://nodejs.org/en/)     
 [Ionic Framework](https://ionicframework.com/docs/intro/cli)     
-[Capacitor](https://capacitorjs.com/docs/getting-started)      
+[Capacitor](https://capacitorjs.com/docs/getting-started)     
+[Homebrew](https://brew.sh/)
+
+Rubygems
+1. brew update
+2. brew install ruby
+
+Cocoapods
+1. brew cleanup -d -v
+2. brew install cocoapods
 
 
 ### Preparing     
