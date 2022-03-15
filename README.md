@@ -19,12 +19,12 @@ General Requirements
 [Capacitor](https://capacitorjs.com/docs/getting-started)     
 [Homebrew](https://brew.sh/)
 
-Rubygems
+[Rubygems](https://guides.rubygems.org/rubygems-basics/)
 ```bash
 brew update
 brew install ruby
 ```
-Cocoapods
+[Cocoapods](https://cocoapods.org/)
 ```bash
 brew cleanup -d -v
 brew install cocoapods
